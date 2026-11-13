@@ -3,6 +3,8 @@
     <color name="purple_text">#800080</color>
     <color name="purple_deep">#5B1A8A</color>
     <color name="purple_light">#F3E5F5</color>
+    <color name="purple_divider">#E1BEE7</color>
+    <color name="page_bg">#FDF7FE</color>
     <color name="white">#FFFFFFFF</color>
     <color name="black">#FF000000</color>
 </resources>
